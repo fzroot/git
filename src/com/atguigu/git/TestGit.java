@@ -9,6 +9,10 @@ public class TestGit {
 		System.out.println("git git git?");
 		System.out.println("git git git?");
 		System.out.println("git git git?");
+		System.out.println("git git git?");
+		System.out.println("git git git?");
+		System.out.println("git git git?");
+		System.out.println("git git git?");
 	}
 
 }
