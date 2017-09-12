@@ -23,6 +23,15 @@ public class TestGit {
 		System.out.println("a a a?");
 		System.out.println("a a a?");
 		System.out.println("git git git?");
+		System.out.println("a a a?");
+		System.out.println("a a a?");
+		System.out.println("a a a?");
+		System.out.println("a a a?");
+		System.out.println("a a a?");
+		System.out.println("a a a?");
+		System.out.println("a a a?");
+		System.out.println("a a a?");
+		System.out.println("git git git?");
 		System.out.println("git git git?");
 		System.out.println("git git git?");
 		System.out.println("git git git?");
